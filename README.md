@@ -2,7 +2,7 @@
 - 🔭 3º ano do Ensino Médio em T.I💻
 - 🌱 Estudando HTML E CSS
 - 🏫 Escola: Senac Nações Unidas
-- 😄 Pronouns: ele/deles
+- 😄 Pronouns: ele/dele
 
 
 <div>
