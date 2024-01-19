@@ -1,5 +1,5 @@
 ## Olá eu sou o João Victor, apaixonado por Tecnologia e Programação! ##
-- 🔭 3º ano do Ensino Médio em T.I💻
+- 🔭 1º semestre de Engenharia da Computação💻
 - 🌱 Estudando HTML E CSS
 - 🏫 Escola: Senac Nações Unidas
 - 😄 Pronouns: ele/dele
