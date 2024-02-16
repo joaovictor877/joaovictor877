@@ -1,6 +1,6 @@
 ## Olá eu sou o João Victor, apaixonado por Tecnologia e Programação! ##
 - 🔭 1º semestre de Engenharia da Computação💻
-- 🌱 Estudando HTML E CSS
+- 🌱 Estudando Python
 - 🏫 Escola: Senac Nações Unidas
 - 😄 Pronouns: ele/dele
 
