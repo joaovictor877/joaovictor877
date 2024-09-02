@@ -1,13 +1,14 @@
 ## Olá eu sou o João Victor, apaixonado por Tecnologia e Programação! ##
 - 🔭 2º semestre de Engenharia da Computação💻
 - 🌱 Estudando Python
-- 🏫 Escola: Senac Nações Unidas
+- 🏫 Escola: Senac Santo Amaro
 - 😄 Pronouns: ele/dele
 
 
 <div>
   <a href="https://github.com/joaovictor877?tab=repositories">
   <img height =180 src="https://github-readme-stats.vercel.app/api?username=joaovictor877&show_icons=true&theme=transparent#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor877&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=transparent#gh-dark-mode-only" height="180">
 </div>
 
   <div style="display: inline_block"><br>
