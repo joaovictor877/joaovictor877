@@ -12,7 +12,7 @@
 </div>
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Joao-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg">
+    <img align="center" alt="Joao-java" height="30" width="40" src="https://github.com/user-attachments/assets/117f4800-629f-4e34-bcdd-1a1deef50f95">
     <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg">
     <img align="center" alt="Joao-html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg">
