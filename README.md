@@ -1,6 +1,6 @@
 ## Olá eu sou o João Victor, apaixonado por Tecnologia e Programação! ##
-- 🔭 3º semestre de Engenharia da Computação💻
-- 🌱 Estudando Python
+- 🔭 4º semestre de Engenharia da Computação💻
+- 🌱 Estudando Java
 - 🏫 Escola: Senac Santo Amaro
 - 😄 Pronouns: ele/dele
 
