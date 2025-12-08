@@ -4,13 +4,13 @@
 - 🏫 Escola: Senac Santo Amaro
 - 😄 Pronouns: ele/dele
 
-
+<!--
 <div>
   <a href="https://github.com/joaovictor877?tab=repositories">
   <img height =180 src="https://github-readme-stats.vercel.app/api?username=joaovictor877&show_icons=true&theme=transparent#gh-dark-mode-only"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor877&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=transparent#gh-dark-mode-only" height="180">
 </div>
-
+-->
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-java" height="30" width="40" src="https://github.com/user-attachments/assets/117f4800-629f-4e34-bcdd-1a1deef50f95">
     <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
